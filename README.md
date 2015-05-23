@@ -15,11 +15,3 @@ placed in your working directory.  All other files downloaded and created
 will be based off your working directory.
 
 ```
-
-You can also embed plots, for example:
-
-```{r, echo=FALSE}
-plot(cars)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
