@@ -92,6 +92,7 @@ the subjects of the the experiment.  This script leveraged the exsisting
 column labels provided in the UCI data files.  The labels can be found at the 
 following location: 
 "Programming Assignment/UCI HAR Dataset/features.txt"
+"Programming Assignment/UCI HAR Dataset/features_info.txt"
 
 The next set of steps:
 1. Places the labels from the text file, put them in a vector. 
